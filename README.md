@@ -17,8 +17,4 @@ The project focused on identifying software defects, refactoring the source code
 - JUnit 5
 - IntelliJ IDEA
 
-## Team Members
-- Maya Alshehri
-- Dalia Fahad
-- Khloud Alshamrani
-- Shahad Alyaseen
+
